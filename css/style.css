@@ -3,14 +3,14 @@
 @import "variables.css";
 
 /* Components */
-@import "components/status-bar.css";
-@import "components/nav-bar.css";
-@import "components/screen-header.css";
-@import "components/user-component.css";
+@import "components/statusbar.css";
+@import "components/navbar.css";
+@import "components/screenheader.css";
+@import "components/usercomponent.css";
 @import "components/badge.css";
-@import "components/icon-row.css";
-@import "components/alt-screen-header.css";
-@import "components/no-mobile.css";
+@import "components/iconrow.css";
+@import "components/altscreenheader.css";
+@import "components/nomobile.css";
 
 /* Screens */
 @import "screens/login.css";
