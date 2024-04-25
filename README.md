@@ -10,26 +10,11 @@ HTML5 | CSS5 | CSS ANIMATION
 
 ## view
 
-<ul>
-    <li>
-    <h3>LOGIN PAGE</h3>
-        <ul>
-            --
-        </ul>
-    </li>
-    <li>
-    <h3>FRIEND PAGE</h3>
-        <ul>
-            --
-        </ul>
-    </li>
-        <li>
-    <h3>CHATS PAGE</h3>
-        <ul>
-            --
-        </ul>
-    </li>
-</ul>
+#### 1. LOGIN PAGE
+
+![index](https://github.com/changhui98/kokoa-clone-2024/assets/143060426/cd93b35c-2ba5-4925-bc2d-69577885ff90)
+
+#### 2. FRIENDS PAGE
 
 ## link
 
@@ -46,3 +31,7 @@ HTML5 | CSS5 | CSS ANIMATION
 - MORE : https://changhui98.github.io/kokoa-clone-2024/more.html
 
 - SETTING : https://changhui98.github.io/kokoa-clone-2024/settings.html
+
+## 프론트엔드 클론 코딩 마치며..
+
+--
